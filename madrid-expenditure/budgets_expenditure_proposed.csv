@@ -1,0 +1,520 @@
+code,amount,date,name,area
+0,420571811.0,2010,Deuda pública,funcional
+01,420571811.0,2010,Deuda Pública,funcional
+011,420571811.0,2010,Deuda Pública,funcional
+1,2497835010.0,2010,Servicios públicos básicos,funcional
+13,876976463.0,2010,Seguridad y movilidad ciudadana,funcional
+130,128814742.0,2010,Administración General de la Seguridad y Protección Civil,funcional
+132,399733291.0,2010,Seguridad y Orden Público,funcional
+133,197409993.0,2010,Ordenación del tráfico y del estacionamiento,funcional
+134,48373933.0,2010,Movilidad urbana,funcional
+135,102644504.0,2010,Protección civil,funcional
+15,701878044.0,2010,Vivienda y urbanismo,funcional
+150,14633153.0,2010,Administración General de Vivienda y urbanismo,funcional
+151,83541916.0,2010,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,90502570.0,2010,Vivienda,funcional
+155,513200405.0,2010,Vías públicas,funcional
+16,701204515.0,2010,Bienestar comunitario,funcional
+161,120714138.0,2010,Abastecimiento domiciliario de agua potable,funcional
+162,219381290.0,2010,"Recogida, gestión y tratamiento de residuos",funcional
+163,273357016.0,2010,Limpieza viaria,funcional
+165,87752071.0,2010,Alumbrado público,funcional
+17,217775988.0,2010,Medio ambiente,funcional
+170,13619648.0,2010,Administración general del medio ambiente,funcional
+171,182505270.0,2010,Parques y jardines,funcional
+172,21651070.0,2010,Protección y mejora del medio ambiente,funcional
+2,461961677.0,2010,Actuaciones de protección y promoción social,funcional
+22,56543489.0,2010,Otras prestaciones económicas a favor de empleados,funcional
+221,56543489.0,2010,Otras prestaciones económicas a favor de empleados,funcional
+23,402333210.0,2010,Servicios Sociales y promoción social,funcional
+230,9777810.0,2010,Administración General de servicios sociales,funcional
+231,145744613.0,2010,Asistencia social primaria,funcional
+232,17619950.0,2010,Promoción social,funcional
+233,229190837.0,2010,Asistencia a personas dependientes,funcional
+24,3084978.0,2010,Fomento del Empleo,funcional
+241,3084978.0,2010,Fomento del Empleo,funcional
+3,466489295.0,2010,Producción de bienes públicos de carácter preferente,funcional
+31,19456404.0,2010,Sanidad,funcional
+313,19456404.0,2010,Acciones públicas relativas a la salud,funcional
+32,112037210.0,2010,Educación,funcional
+321,104636643.0,2010,Creación de Centros docentes de enseñanza preescolar y primaria,funcional
+324,7400567.0,2010,Funcionamiento de Centros docentes de enseñanza secundaria,funcional
+33,183030092.0,2010,Cultura,funcional
+330,17368327.0,2010,Administración General de Cultura,funcional
+332,26638216.0,2010,Bibliotecas y Archivos,funcional
+333,10235520.0,2010,Equipamientos culturales y museos,funcional
+334,121410098.0,2010,Promoción cultural,funcional
+337,7377931.0,2010,Instalaciones de ocupación del tiempo libre,funcional
+34,151965589.0,2010,Deporte,funcional
+341,151965589.0,2010,Promoción y fomento del deporte,funcional
+4,327230349.0,2010,Actuaciones de carácter económico,funcional
+43,90093265.0,2010,"Comercio, turismo y pequeñas y medianas empresas",funcional
+430,80190924.0,2010,"Administración General de Comercio, turismo y pequeñas y medianas empresas",funcional
+431,8246121.0,2010,Comercio,funcional
+433,1656220.0,2010,Desarrollo empresarial,funcional
+44,233079401.0,2010,Transporte público,funcional
+441,233079401.0,2010,Transporte de viajeros,funcional
+49,4057683.0,2010,Otras actuaciones de carácter económico,funcional
+491,4057683.0,2010,Sociedad de la información,funcional
+9,758023154.0,2010,Actuaciones de carácter general,funcional
+91,34383392.0,2010,Órganos de gobierno,funcional
+912,34383392.0,2010,Órganos de gobierno,funcional
+92,337668571.0,2010,Servicios de carácter general,funcional
+920,239841885.0,2010,Administración General,funcional
+922,19335160.0,2010,Coordinación y organización institucional de las entidades locales,funcional
+923,7840502.0,2010,Información básica y estadística,funcional
+924,4496000.0,2010,Participación ciudadana,funcional
+925,21661024.0,2010,Atención a los ciudadanos,funcional
+929,44494000.0,2010,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,385971191.0,2010,Administración financiera y tributaria,funcional
+931,224948613.0,2010,Política económica y fiscal,funcional
+932,6494842.0,2010,Gestión del sistema tributario,funcional
+933,149950073.0,2010,Gestión del patrimonio,funcional
+934,4577663.0,2010,Gestión de la deuda y de la tesorería,funcional
+0,454590410.0,2011,Deuda pública,funcional
+01,454590410.0,2011,Deuda Pública,funcional
+011,454590410.0,2011,Deuda Pública,funcional
+1,2201027219.0,2011,Servicios públicos básicos,funcional
+13,801895255.0,2011,Seguridad y movilidad ciudadana,funcional
+130,116536653.0,2011,Administración General de la Seguridad y Protección Civil,funcional
+132,368278924.0,2011,Seguridad y Orden Público,funcional
+133,173325814.0,2011,Ordenación del tráfico y del estacionamiento,funcional
+134,48607632.0,2011,Movilidad urbana,funcional
+135,95146232.0,2011,Protección civil,funcional
+15,551941277.0,2011,Vivienda y urbanismo,funcional
+150,13256875.0,2011,Administración General de Vivienda y urbanismo,funcional
+151,58557900.0,2011,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,64576578.0,2011,Vivienda,funcional
+155,415549924.0,2011,Vías públicas,funcional
+16,628668008.0,2011,Bienestar comunitario,funcional
+161,69330472.0,2011,Abastecimiento domiciliario de agua potable,funcional
+162,234737868.0,2011,"Recogida, gestión y tratamiento de residuos",funcional
+163,263439942.0,2011,Limpieza viaria,funcional
+165,61159726.0,2011,Alumbrado público,funcional
+17,218522679.0,2011,Medio ambiente,funcional
+170,12304738.0,2011,Administración general del medio ambiente,funcional
+171,189658749.0,2011,Parques y jardines,funcional
+172,16559192.0,2011,Protección y mejora del medio ambiente,funcional
+2,434390666.0,2011,Actuaciones de protección y promoción social,funcional
+22,53449968.0,2011,Otras prestaciones económicas a favor de empleados,funcional
+221,53449968.0,2011,Otras prestaciones económicas a favor de empleados,funcional
+23,378422049.0,2011,Servicios Sociales y promoción social,funcional
+230,8642640.0,2011,Administración General de servicios sociales,funcional
+231,123970582.0,2011,Asistencia social primaria,funcional
+232,16803104.0,2011,Promoción social,funcional
+233,229005723.0,2011,Asistencia a personas dependientes,funcional
+24,2518649.0,2011,Fomento del Empleo,funcional
+241,2518649.0,2011,Fomento del Empleo,funcional
+3,418025549.0,2011,Producción de bienes públicos de carácter preferente,funcional
+31,17852037.0,2011,Sanidad,funcional
+312,14281629.6,2011,"Hospitales, servicios asistenciales y centros de salud",funcional
+313,3570407.4,2011,Acciones públicas relativas a la salud,funcional
+32,108264514.0,2011,Educación,funcional
+321,101575930.0,2011,Creación de Centros docentes de enseñanza preescolar y primaria,funcional
+324,6688584.0,2011,Funcionamiento de Centros docentes de enseñanza secundaria,funcional
+33,161557818.0,2011,Cultura,funcional
+330,15394284.0,2011,Administración General de Cultura,funcional
+332,22943208.0,2011,Bibliotecas y Archivos,funcional
+333,7688547.0,2011,Equipamientos culturales y museos,funcional
+334,109678269.0,2011,Promoción cultural,funcional
+337,5853510.0,2011,Instalaciones de ocupación del tiempo libre,funcional
+34,130351180.0,2011,Deporte,funcional
+341,130351180.0,2011,Promoción y fomento del deporte,funcional
+4,304105929.0,2011,Actuaciones de carácter económico,funcional
+43,73145739.0,2011,"Comercio, turismo y pequeñas y medianas empresas",funcional
+430,66003730.0,2011,"Administración General de Comercio, turismo y pequeñas y medianas empresas",funcional
+431,5679207.0,2011,Comercio,funcional
+433,1462802.0,2011,Desarrollo empresarial,funcional
+44,227820135.0,2011,Transporte público,funcional
+441,227820135.0,2011,Transporte de viajeros,funcional
+49,3140055.0,2011,Otras actuaciones de carácter económico,funcional
+491,3140055.0,2011,Sociedad de la información,funcional
+9,708871019.0,2011,Actuaciones de carácter general,funcional
+91,38249795.0,2011,Órganos de gobierno,funcional
+912,38249795.0,2011,Órganos de gobierno,funcional
+92,355955903.0,2011,Servicios de carácter general,funcional
+920,206389435.0,2011,Administración General,funcional
+922,14168674.0,2011,Coordinación y organización institucional de las entidades locales,funcional
+923,2674809.0,2011,Información básica y estadística,funcional
+924,4725402.0,2011,Participación ciudadana,funcional
+925,18685459.0,2011,Atención a los ciudadanos,funcional
+929,109312124.0,2011,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,314665321.0,2011,Administración financiera y tributaria,funcional
+931,206345908.0,2011,Política económica y fiscal,funcional
+932,5212479.0,2011,Gestión del sistema tributario,funcional
+933,99390834.0,2011,Gestión del patrimonio,funcional
+934,3716100.0,2011,Gestión de la deuda y de la tesorería,funcional
+0,1009701117.0,2012,Deuda pública,funcional
+01,1009701117.0,2012,Deuda Pública,funcional
+011,1009701117.0,2012,Deuda Pública,funcional
+1,1965942016.0,2012,Servicios públicos básicos,funcional
+13,806214864.0,2012,Seguridad y movilidad ciudadana,funcional
+130,127688052.0,2012,Administración General de la Seguridad y Protección Civil,funcional
+132,364712533.0,2012,Seguridad y Orden Público,funcional
+133,162321944.0,2012,Ordenación del tráfico y del estacionamiento,funcional
+134,48136301.0,2012,Movilidad urbana,funcional
+135,103356034.0,2012,Protección civil,funcional
+15,387228468.0,2012,Vivienda y urbanismo,funcional
+150,13555949.0,2012,Administración General de Vivienda y urbanismo,funcional
+151,92457163.0,2012,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,68440178.0,2012,Vivienda,funcional
+155,212775178.0,2012,Vías públicas,funcional
+16,563535717.0,2012,Bienestar comunitario,funcional
+161,58310131.0,2012,Abastecimiento domiciliario de agua potable,funcional
+162,200077157.0,2012,"Recogida, gestión y tratamiento de residuos",funcional
+163,246515552.0,2012,Limpieza viaria,funcional
+165,58632877.0,2012,Alumbrado público,funcional
+17,208962967.0,2012,Medio ambiente,funcional
+170,15962778.0,2012,Administración general del medio ambiente,funcional
+171,156700048.0,2012,Parques y jardines,funcional
+172,36300141.0,2012,Protección y mejora del medio ambiente,funcional
+2,439171836.0,2012,Actuaciones de protección y promoción social,funcional
+22,55635509.0,2012,Otras prestaciones económicas a favor de empleados,funcional
+221,55635509.0,2012,Otras prestaciones económicas a favor de empleados,funcional
+23,381498302.0,2012,Servicios Sociales y promoción social,funcional
+230,8955741.0,2012,Administración General de servicios sociales,funcional
+231,116325025.0,2012,Asistencia social primaria,funcional
+232,24769039.0,2012,Promoción social,funcional
+233,231448497.0,2012,Asistencia a personas dependientes,funcional
+24,2038025.0,2012,Fomento del Empleo,funcional
+241,2038025.0,2012,Fomento del Empleo,funcional
+3,397516825.0,2012,Producción de bienes públicos de carácter preferente,funcional
+31,17743062.0,2012,Sanidad,funcional
+313,17743062.0,2012,Acciones públicas relativas a la salud,funcional
+32,99596846.0,2012,Educación,funcional
+321,92562892.0,2012,Creación de Centros docentes de enseñanza preescolar y primaria,funcional
+324,7033954.0,2012,Funcionamiento de Centros docentes de enseñanza secundaria,funcional
+33,147250012.0,2012,Cultura,funcional
+330,14089600.0,2012,Administración General de Cultura,funcional
+332,24044980.0,2012,Bibliotecas y Archivos,funcional
+333,8794599.0,2012,Equipamientos culturales y museos,funcional
+334,96524436.0,2012,Promoción cultural,funcional
+337,3796397.0,2012,Instalaciones de ocupación del tiempo libre,funcional
+34,132926905.0,2012,Deporte,funcional
+341,132926905.0,2012,Promoción y fomento del deporte,funcional
+4,185849738.0,2012,Actuaciones de carácter económico,funcional
+43,73938235.0,2012,"Comercio, turismo y pequeñas y medianas empresas",funcional
+430,66927601.0,2012,"Administración General de Comercio, turismo y pequeñas y medianas empresas",funcional
+431,4547440.0,2012,Comercio,funcional
+433,2463194.0,2012,Desarrollo empresarial,funcional
+44,109160159.0,2012,Transporte público,funcional
+441,109160159.0,2012,Transporte de viajeros,funcional
+49,2751344.0,2012,Otras actuaciones de carácter económico,funcional
+491,2751344.0,2012,Sociedad de la información,funcional
+9,638055118.0,2012,Actuaciones de carácter general,funcional
+91,26781669.0,2012,Órganos de gobierno,funcional
+912,26781669.0,2012,Órganos de gobierno,funcional
+92,328934581.0,2012,Servicios de carácter general,funcional
+920,193272548.0,2012,Administración General,funcional
+922,12688287.0,2012,Coordinación y organización institucional de las entidades locales,funcional
+923,6302138.0,2012,Información básica y estadística,funcional
+924,4514649.0,2012,Participación ciudadana,funcional
+925,26972862.0,2012,Atención a los ciudadanos,funcional
+929,85184097.0,2012,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,282338868.0,2012,Administración financiera y tributaria,funcional
+931,194959025.0,2012,Política económica y fiscal,funcional
+932,3636541.0,2012,Gestión del sistema tributario,funcional
+933,80676673.0,2012,Gestión del patrimonio,funcional
+934,3066629.0,2012,Gestión de la deuda y de la tesorería,funcional
+0,1033925370.0,2013,Deuda pública,funcional
+01,1033925370.0,2013,Deuda Pública,funcional
+011,1033925370.0,2013,Deuda Pública,funcional
+1,1791741680.0,2013,Servicios públicos básicos,funcional
+13,671666460.0,2013,Seguridad y movilidad ciudadana,funcional
+130,4986870.0,2013,Administración General de la Seguridad y Protección Civil,funcional
+132,355234813.0,2013,Seguridad y Orden Público,funcional
+133,163475154.0,2013,Ordenación del tráfico y del estacionamiento,funcional
+134,47075048.0,2013,Movilidad urbana,funcional
+135,100894575.0,2013,Protección civil,funcional
+15,325588764.0,2013,Vivienda y urbanismo,funcional
+150,14498817.0,2013,Administración General de Vivienda y urbanismo,funcional
+151,66985012.0,2013,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,51940564.0,2013,Vivienda,funcional
+155,192164371.0,2013,Vías públicas,funcional
+16,508091715.0,2013,Bienestar comunitario,funcional
+161,37055962.0,2013,Abastecimiento domiciliario de agua potable,funcional
+162,198561485.0,2013,"Recogida, gestión y tratamiento de residuos",funcional
+163,216740208.0,2013,Limpieza viaria,funcional
+165,55734060.0,2013,Alumbrado público,funcional
+17,286394741.0,2013,Medio ambiente,funcional
+170,114164749.0,2013,Administración general del medio ambiente,funcional
+171,144189179.0,2013,Parques y jardines,funcional
+172,28040813.0,2013,Protección y mejora del medio ambiente,funcional
+2,380116485.0,2013,Actuaciones de protección y promoción social,funcional
+22,22351318.0,2013,Otras prestaciones económicas a favor de empleados,funcional
+221,22351318.0,2013,Otras prestaciones económicas a favor de empleados,funcional
+23,356728212.0,2013,Servicios Sociales y promoción social,funcional
+230,8797739.0,2013,Administración General de servicios sociales,funcional
+231,110031615.0,2013,Asistencia social primaria,funcional
+232,14381781.0,2013,Promoción social,funcional
+233,223517077.0,2013,Asistencia a personas dependientes,funcional
+24,1036955.0,2013,Fomento del Empleo,funcional
+241,1036955.0,2013,Fomento del Empleo,funcional
+3,350275931.0,2013,Producción de bienes públicos de carácter preferente,funcional
+31,17286535.0,2013,Sanidad,funcional
+313,17286535.0,2013,Acciones públicas relativas a la salud,funcional
+32,89372346.0,2013,Educación,funcional
+321,83717521.0,2013,Creación de Centros docentes de enseñanza preescolar y primaria,funcional
+324,5654825.0,2013,Funcionamiento de Centros docentes de enseñanza secundaria,funcional
+33,120183330.0,2013,Cultura,funcional
+330,13624043.0,2013,Administración General de Cultura,funcional
+332,23353649.0,2013,Bibliotecas y Archivos,funcional
+333,5790333.0,2013,Equipamientos culturales y museos,funcional
+334,75190554.0,2013,Promoción cultural,funcional
+337,2224751.0,2013,Instalaciones de ocupación del tiempo libre,funcional
+34,123433720.0,2013,Deporte,funcional
+341,123433720.0,2013,Promoción y fomento del deporte,funcional
+4,186448532.0,2013,Actuaciones de carácter económico,funcional
+43,59920533.0,2013,"Comercio, turismo y pequeñas y medianas empresas",funcional
+430,54953909.0,2013,"Administración General de Comercio, turismo y pequeñas y medianas empresas",funcional
+431,3777326.0,2013,Comercio,funcional
+433,1189298.0,2013,Desarrollo empresarial,funcional
+44,122074020.0,2013,Transporte público,funcional
+441,122074020.0,2013,Transporte de viajeros,funcional
+49,4453979.0,2013,Otras actuaciones de carácter económico,funcional
+491,4453979.0,2013,Sociedad de la información,funcional
+9,552495248.0,2013,Actuaciones de carácter general,funcional
+91,27015191.0,2013,Órganos de gobierno,funcional
+912,27015191.0,2013,Órganos de gobierno,funcional
+92,279813651.0,2013,Servicios de carácter general,funcional
+920,203552241.0,2013,Administración General,funcional
+922,7915005.0,2013,Coordinación y organización institucional de las entidades locales,funcional
+923,6603817.0,2013,Información básica y estadística,funcional
+924,5924442.0,2013,Participación ciudadana,funcional
+925,26922146.0,2013,Atención a los ciudadanos,funcional
+929,28896000.0,2013,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,245666406.0,2013,Administración financiera y tributaria,funcional
+931,178057708.0,2013,Política económica y fiscal,funcional
+932,3876908.0,2013,Gestión del sistema tributario,funcional
+933,60540269.0,2013,Gestión del patrimonio,funcional
+934,3191521.0,2013,Gestión de la deuda y de la tesorería,funcional
+0,1115244770.0,2014,Deuda pública,funcional
+01,1115244770.0,2014,Deuda Pública,funcional
+011,1115244770.0,2014,Deuda Pública,funcional
+1,1856925557.0,2014,Servicios públicos básicos,funcional
+13,785478822.0,2014,Seguridad y movilidad ciudadana,funcional
+130,119084739.0,2014,Administración General de la Seguridad y Protección Civil,funcional
+132,352200532.0,2014,Seguridad y Orden Público,funcional
+133,159450359.0,2014,Ordenación del tráfico y del estacionamiento,funcional
+134,47399415.0,2014,Movilidad urbana,funcional
+135,107343777.0,2014,Protección civil,funcional
+15,341875129.0,2014,Vivienda y urbanismo,funcional
+150,14704412.0,2014,Administración General de Vivienda y urbanismo,funcional
+151,95744982.0,2014,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,36905154.0,2014,Vivienda,funcional
+155,194520581.0,2014,Vías públicas,funcional
+16,560651542.0,2014,Bienestar comunitario,funcional
+161,75812694.0,2014,Abastecimiento domiciliario de agua potable,funcional
+162,209000420.0,2014,"Recogida, gestión y tratamiento de residuos",funcional
+163,202609836.0,2014,Limpieza viaria,funcional
+165,73228592.0,2014,Alumbrado público,funcional
+17,168920064.0,2014,Medio ambiente,funcional
+170,19640099.0,2014,Administración general del medio ambiente,funcional
+171,134959747.0,2014,Parques y jardines,funcional
+172,14320218.0,2014,Protección y mejora del medio ambiente,funcional
+2,378318555.0,2014,Actuaciones de protección y promoción social,funcional
+22,20971294.0,2014,Otras prestaciones económicas a favor de empleados,funcional
+221,20971294.0,2014,Otras prestaciones económicas a favor de empleados,funcional
+23,356895986.0,2014,Servicios Sociales y promoción social,funcional
+230,9019931.0,2014,Administración General de servicios sociales,funcional
+231,110482510.0,2014,Asistencia social primaria,funcional
+232,15243021.0,2014,Promoción social,funcional
+233,222150524.0,2014,Asistencia a personas dependientes,funcional
+24,451275.0,2014,Fomento del Empleo,funcional
+241,451275.0,2014,Fomento del Empleo,funcional
+3,359613213.0,2014,Producción de bienes públicos de carácter preferente,funcional
+31,17092837.0,2014,Sanidad,funcional
+313,17092837.0,2014,Acciones públicas relativas a la salud,funcional
+32,88472502.0,2014,Educación,funcional
+321,82941159.0,2014,Creación de Centros docentes de enseñanza preescolar y primaria,funcional
+324,5531343.0,2014,Funcionamiento de Centros docentes de enseñanza secundaria,funcional
+33,132995566.0,2014,Cultura,funcional
+330,54090846.0,2014,Administración General de Cultura,funcional
+332,23221617.0,2014,Bibliotecas y Archivos,funcional
+333,11587771.0,2014,Equipamientos culturales y museos,funcional
+334,41450614.0,2014,Promoción cultural,funcional
+337,2644718.0,2014,Instalaciones de ocupación del tiempo libre,funcional
+34,121052308.0,2014,Deporte,funcional
+341,121052308.0,2014,Promoción y fomento del deporte,funcional
+4,138330575.0,2014,Actuaciones de carácter económico,funcional
+43,15816038.0,2014,"Comercio, turismo y pequeñas y medianas empresas",funcional
+431,15816038.0,2014,Comercio,funcional
+44,122514537.0,2014,Transporte público,funcional
+441,122514537.0,2014,Transporte de viajeros,funcional
+9,593881085.0,2014,Actuaciones de carácter general,funcional
+91,26356728.0,2014,Órganos de gobierno,funcional
+912,26356728.0,2014,Órganos de gobierno,funcional
+92,298618431.0,2014,Servicios de carácter general,funcional
+920,190719142.0,2014,Administración General,funcional
+922,6394171.0,2014,Coordinación y organización institucional de las entidades locales,funcional
+923,7444419.0,2014,Información básica y estadística,funcional
+924,5709257.0,2014,Participación ciudadana,funcional
+925,27551855.0,2014,Atención a los ciudadanos,funcional
+929,60799587.0,2014,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,268905926.0,2014,Administración financiera y tributaria,funcional
+931,205651582.0,2014,Política económica y fiscal,funcional
+932,3345580.0,2014,Gestión del sistema tributario,funcional
+933,56758410.0,2014,Gestión del patrimonio,funcional
+934,3150354.0,2014,Gestión de la deuda y de la tesorería,funcional
+0,940225385.0,2015,Deuda pública,funcional
+01,940225385.0,2015,Deuda Pública,funcional
+011,940225385.0,2015,Deuda Pública,funcional
+1,1919137710.0,2015,Servicios públicos básicos,funcional
+13,794339135.0,2015,Seguridad y movilidad ciudadana,funcional
+130,122743607.0,2015,Administración General de la Seguridad y Protección Civil,funcional
+132,357736968.0,2015,Seguridad y Orden Público,funcional
+133,36682393.0,2015,Ordenación del tráfico y del estacionamiento,funcional
+134,109895002.0,2015,Movilidad urbana,funcional
+135,50032114.0,2015,Protección civil,funcional
+136,117249051.0,2015,Servicio de prevención y extinción de incendios,funcional
+15,378576852.0,2015,Vivienda y urbanismo,funcional
+150,14303744.0,2015,Administración General de Vivienda y urbanismo,funcional
+151,77393141.0,2015,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,64727866.0,2015,Vivienda,funcional
+1521,51688957.0,2015,Promoción y gestión de vivienda de protección pública,funcional
+1522,13038909.0,2015,Conservación y rehabilitación de la edificación,funcional
+153,222152101.0,2015,Vías públicas,funcional
+1532,222152101.0,2015,Pavimentación de vías públicas,funcional
+16,583586397.0,2015,Bienestar comunitario,funcional
+160,39911443.0,2015,Alcantarillado,funcional
+161,27972133.0,2015,Abastecimiento domiciliario de agua potable,funcional
+162,239124823.0,2015,"Recogida, gestión y tratamiento de residuos",funcional
+1621,153954300.0,2015,Recogida de residuos,funcional
+1623,85170523.0,2015,Tratamiento de residuos,funcional
+163,205201724.0,2015,Limpieza viaria,funcional
+165,71376274.0,2015,Alumbrado público,funcional
+17,162635326.0,2015,Medio ambiente,funcional
+170,21366797.0,2015,Administración general del medio ambiente,funcional
+171,126628830.0,2015,Parques y jardines,funcional
+172,14639699.0,2015,Protección y mejora del medio ambiente,funcional
+1721,14639699.0,2015,"Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",funcional
+2,400298009.0,2015,Actuaciones de protección y promoción social,funcional
+22,32999397.0,2015,Otras prestaciones económicas a favor de empleados,funcional
+221,32999397.0,2015,Otras prestaciones económicas a favor de empleados,funcional
+23,366847336.0,2015,Servicios Sociales y promoción social,funcional
+231,366847336.0,2015,Asistencia social primaria,funcional
+24,451276.0,2015,Fomento del Empleo,funcional
+241,451276.0,2015,Fomento del Empleo,funcional
+3,357372410.0,2015,Producción de bienes públicos de carácter preferente,funcional
+31,9806541.0,2015,Sanidad,funcional
+311,9806541.0,2015,Protección de la salubridad pública,funcional
+32,89484205.0,2015,Educación,funcional
+323,76837859.0,2015,Funcionamiento de Centros docentes de enseñanza preescolar y primaria y educación especial,funcional
+325,1737579.0,2015,Vigilancia del cumplimiento de la escolaridad obligatoria,funcional
+326,10908767.0,2015,Servicios complementarios de educación,funcional
+33,138075088.0,2015,Cultura,funcional
+330,58476346.0,2015,Administración General de Cultura,funcional
+332,22840133.0,2015,Bibliotecas y Archivos,funcional
+3321,21731783.0,2015,Bibliotecas Públicas,funcional
+3322,1108350.0,2015,Archivos,funcional
+333,6038435.0,2015,Equipamientos culturales y museos,funcional
+334,41596543.0,2015,Promoción cultural,funcional
+336,9123631.0,2015,Protección y gestión del Patrimonio Histórico-Artístico,funcional
+34,120006576.0,2015,Deporte,funcional
+341,20009846.0,2015,Promoción y fomento del deporte,funcional
+342,99996730.0,2015,Instalaciones deportivas,funcional
+4,169363673.0,2015,Actuaciones de carácter económico,funcional
+43,14133430.0,2015,"Comercio, turismo y pequeñas y medianas empresas",funcional
+433,14133430.0,2015,Desarrollo empresarial,funcional
+44,147827511.0,2015,Transporte público,funcional
+441,147827511.0,2015,Transporte de viajeros,funcional
+4411,147827511.0,2015,Transporte colectivo urbano de viajeros,funcional
+49,7402732.0,2015,Otras actuaciones de carácter económico,funcional
+493,7402732.0,2015,Protección de consumidores y usuarios,funcional
+9,596187841.0,2015,Actuaciones de carácter general,funcional
+91,28160503.0,2015,Órganos de gobierno,funcional
+912,28160503.0,2015,Órganos de gobierno,funcional
+92,271065817.0,2015,Servicios de carácter general,funcional
+920,207348899.0,2015,Administración General,funcional
+922,8950435.0,2015,Coordinación y organización institucional de las entidades locales,funcional
+923,2784358.0,2015,Información básica y estadística,funcional
+9231,2784358.0,2015,Gestión del Padrón Municipal de Habitantes,funcional
+924,4301379.0,2015,Participación ciudadana,funcional
+925,28255065.0,2015,Atención a los ciudadanos,funcional
+929,19425681.0,2015,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,296961521.0,2015,Administración financiera y tributaria,funcional
+931,213804801.0,2015,Política económica y fiscal,funcional
+932,3371459.0,2015,Gestión del sistema tributario,funcional
+933,76549141.0,2015,Gestión del patrimonio,funcional
+934,3236120.0,2015,Gestión de la deuda y de la tesorería,funcional
+0,716297909.0,2016,Deuda pública,funcional
+01,716297909.0,2016,Deuda Pública,funcional
+011,716297909.0,2016,Deuda Pública,funcional
+1,2075959271.0,2016,Servicios públicos básicos,funcional
+13,782837860.0,2016,Seguridad y movilidad ciudadana,funcional
+130,104069249.0,2016,Administración General de la Seguridad y Protección Civil,funcional
+132,358682816.0,2016,Seguridad y Orden Público,funcional
+133,37410846.0,2016,Ordenación del tráfico y del estacionamiento,funcional
+134,111232503.0,2016,Movilidad urbana,funcional
+135,52582976.0,2016,Protección civil,funcional
+136,118859470.0,2016,Servicio de prevención y extinción de incendios,funcional
+15,503597216.0,2016,Vivienda y urbanismo,funcional
+150,36923687.0,2016,Administración General de Vivienda y urbanismo,funcional
+151,122418372.0,2016,"Urbanismo:planeamiento,gestión,ejecución y disciplina urbanística",funcional
+152,105551638.0,2016,Vivienda,funcional
+1521,85350000.0,2016,Promoción y gestión de vivienda de protección pública,funcional
+1522,20201638.0,2016,Conservación y rehabilitación de la edificación,funcional
+153,238703519.0,2016,Vías públicas,funcional
+1532,238703519.0,2016,Pavimentación de vías públicas,funcional
+16,558723821.0,2016,Bienestar comunitario,funcional
+160,5220000.0,2016,Alcantarillado,funcional
+161,30710829.0,2016,Abastecimiento domiciliario de agua potable,funcional
+162,232354769.0,2016,"Recogida, gestión y tratamiento de residuos",funcional
+1621,151224307.0,2016,Recogida de residuos,funcional
+1623,81130462.0,2016,Tratamiento de residuos,funcional
+163,217085421.0,2016,Limpieza viaria,funcional
+165,73352802.0,2016,Alumbrado público,funcional
+17,230800374.0,2016,Medio ambiente,funcional
+170,59345832.0,2016,Administración general del medio ambiente,funcional
+171,153821642.0,2016,Parques y jardines,funcional
+172,17632900.0,2016,Protección y mejora del medio ambiente,funcional
+1721,17632900.0,2016,"Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",funcional
+2,519532188.0,2016,Actuaciones de protección y promoción social,funcional
+22,43835473.0,2016,Otras prestaciones económicas a favor de empleados,funcional
+221,43835473.0,2016,Otras prestaciones económicas a favor de empleados,funcional
+23,475696715.0,2016,Servicios Sociales y promoción social,funcional
+231,475696715.0,2016,Asistencia social primaria,funcional
+3,407814578.0,2016,Producción de bienes públicos de carácter preferente,funcional
+31,9707558.0,2016,Sanidad,funcional
+311,9707558.0,2016,Protección de la salubridad pública,funcional
+32,98511594.0,2016,Educación,funcional
+323,74050522.0,2016,Funcionamiento de Centros docentes de enseñanza preescolar y primaria y educación especial,funcional
+325,2286677.0,2016,Vigilancia del cumplimiento de la escolaridad obligatoria,funcional
+326,22174395.0,2016,Servicios complementarios de educación,funcional
+33,153005940.0,2016,Cultura,funcional
+330,70890882.0,2016,Administración General de Cultura,funcional
+332,24759047.0,2016,Bibliotecas y Archivos,funcional
+3321,23360690.0,2016,Bibliotecas Públicas,funcional
+3322,1398357.0,2016,Archivos,funcional
+333,6284921.0,2016,Equipamientos culturales y museos,funcional
+334,44726932.0,2016,Promoción cultural,funcional
+336,6344158.0,2016,Protección y gestión del Patrimonio Histórico-Artístico,funcional
+34,146589486.0,2016,Deporte,funcional
+341,31550299.0,2016,Promoción y fomento del deporte,funcional
+342,115039187.0,2016,Instalaciones deportivas,funcional
+4,161495128.0,2016,Actuaciones de carácter económico,funcional
+43,16237459.0,2016,"Comercio, turismo y pequeñas y medianas empresas",funcional
+433,16237459.0,2016,Desarrollo empresarial,funcional
+44,127710000.0,2016,Transporte público,funcional
+441,127710000.0,2016,Transporte de viajeros,funcional
+4411,127710000.0,2016,Transporte colectivo urbano de viajeros,funcional
+46,10295100.0,2016,"Investigación, desarrollo e innovación",funcional
+462,10295100.0,2016,Investigación y estudios relacionados con los servicios públicos,funcional
+49,7252569.0,2016,Otras actuaciones de carácter económico,funcional
+493,7252569.0,2016,Protección de consumidores y usuarios,funcional
+9,602401391.0,2016,Actuaciones de carácter general,funcional
+91,27762550.0,2016,Órganos de gobierno,funcional
+912,27762550.0,2016,Órganos de gobierno,funcional
+92,389138595.0,2016,Servicios de carácter general,funcional
+920,319381469.0,2016,Administración General,funcional
+922,12134950.0,2016,Coordinación y organización institucional de las entidades locales,funcional
+923,2839777.0,2016,Información básica y estadística,funcional
+9231,2839777.0,2016,Gestión del Padrón Municipal de Habitantes,funcional
+924,7497628.0,2016,Participación ciudadana,funcional
+925,30202043.0,2016,Atención a los ciudadanos,funcional
+929,17082728.0,2016,"Imprevistos, situaciones transitorias y contingencias de ejecución",funcional
+93,185500246.0,2016,Administración financiera y tributaria,funcional
+931,94134413.0,2016,Política económica y fiscal,funcional
+932,3334778.0,2016,Gestión del sistema tributario,funcional
+933,85354496.0,2016,Gestión del patrimonio,funcional
+934,2676559.0,2016,Gestión de la deuda y de la tesorería,funcional

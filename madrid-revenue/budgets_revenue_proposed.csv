@@ -1,0 +1,807 @@
+code,amount,date,name,area
+1,1694117000.0,2010,Impuestos directos,funcional
+10,111716000.0,2010,Impuesto sobre la Renta,funcional
+100,111716000.0,2010,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1451085000.0,2010,Impuestos sobre el capital,funcional
+112,43000.0,2010,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,964322000.0,2010,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,40454000.0,2010,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,190103000.0,2010,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,256163000.0,2010,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,131256000.0,2010,Impuesto sobre las Actividades Económicas,funcional
+130,131256000.0,2010,Impuesto sobre Actividades Económicas,funcional
+18,60000.0,2010,Impuestos directos extinguidos,funcional
+2,177688000.0,2010,Impuestos indirectos,funcional
+21,42450000.0,2010,Impuestos sobre el Valor Añadido,funcional
+210,42450000.0,2010,Impuesto sobre el Valor Añadido,funcional
+22,15038000.0,2010,Sobre consumos específicos,funcional
+220-00,823000.0,2010,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,262000.0,2010,Impuesto sobre la cerveza,funcional
+220-03,6605000.0,2010,Impuesto sobre las labores del tabaco,funcional
+220-04,7329000.0,2010,Impuesto sobre hidrocarburos,funcional
+220-06,19000.0,2010,Impuesto sobre productos intermedios,funcional
+29,120200000.0,2010,Otros impuestos indirectos,funcional
+290,120200000.0,2010,"Impuesto sobre construcciones, instalaciones y obras",funcional
+3,995207839.0,2010,Tasas y otros ingresos,funcional
+30,178882200.0,2010,Tasas por la prestación de servicios públicos básicos,funcional
+302,60000.0,2010,Servicio de recogida de basuras,funcional
+303,168348000.0,2010,Servicio de tratamiento de residuos,funcional
+309,10474200.0,2010,Otras tasas por prestación de servicios básicos,funcional
+31,40899000.0,2010,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1150000.0,2010,Servicios asistenciales,funcional
+313,39449000.0,2010,Servicios deportivos,funcional
+319,300000.0,2010,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,40865000.0,2010,Tasas por la realización de actividades de competencia local,funcional
+321,11601000.0,2010,Licencias urbanísticas,funcional
+322,2057000.0,2010,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,1126000.0,2010,Tasa por expedición de documentos,funcional
+326,24990000.0,2010,Tasa por retirada de vehículos,funcional
+329,1091000.0,2010,Otras tasas por la realización de actividades de competencia local,funcional
+33,273838000.0,2010,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,87801000.0,2010,Tasa de estacionamiento de vehículos,funcional
+331,42300000.0,2010,Tasa por entrada de vehículos,funcional
+332,39365000.0,2010,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+333,21016000.0,2010,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de telecomunicaciones,funcional
+334,300000.0,2010,Tasa por apertura de calas y zanjas,funcional
+335,8000000.0,2010,Tasa por ocupación de la vía pública con terrazas,funcional
+338,47097000.0,2010,Compensación de Telefónica de España SA,funcional
+339,27959000.0,2010,Otras tasas por utilización privativa del dominio público,funcional
+34,17215086.0,2010,Precios públicos,funcional
+342,56000.0,2010,Servicios educativos,funcional
+349,17159086.0,2010,Otros precios públicos,funcional
+35,16336000.0,2010,Contribuciones especiales,funcional
+351,16336000.0,2010,Para el establecimiento o ampliación de servicios,funcional
+36,129500.0,2010,Ventas,funcional
+38,6000000.0,2010,Reintegros de operaciones corrientes,funcional
+389,6000000.0,2010,Otros reintegros de operaciones corrientes,funcional
+39,421043053.0,2010,Otros ingresos,funcional
+391,301695335.0,2010,Multas,funcional
+391-00,7000000.0,2010,Multas por infracciones urbanísticas,funcional
+391-10,8800000.0,2010,Multas por infracciones tributarias y análogas,funcional
+391-20,260000000.0,2010,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,25895335.0,2010,Otras multas y sanciones,funcional
+392,23523000.0,2010,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,1980000.0,2010,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,4700000.0,2010,Recargo ejecutivo,funcional
+392-11,16843000.0,2010,Recargo de apremio,funcional
+393,12726000.0,2010,Intereses de demora,funcional
+396,11650000.0,2010,Ingresos por actuaciones de urbanización,funcional
+396-10,11650000.0,2010,Cuotas de urbanización,funcional
+397,25868678.0,2010,Aprovechamientos urbanísticos,funcional
+397-10,25868678.0,2010,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,45580040.0,2010,Otros ingresos diversos,funcional
+4,1269462175.0,2010,Transferencias corrientes,funcional
+42,1160738875.0,2010,De la Administración del Estado,funcional
+420,1159847000.0,2010,De la Administración General del Estado,funcional
+420-10,1084944000.0,2010,Fondo Complementario de Financiación,funcional
+420-20,5288000.0,2010,Compensación por beneficios fiscales,funcional
+420-90,69615000.0,2010,Otras transferencias corrientes de la Administración General del Estado,funcional
+421,550875.0,2010,De Organismos Autónomos y agencias estatales,funcional
+421-90,550875.0,2010,De otros Organismos Autónomos y Agencias,funcional
+423,341000.0,2010,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,341000.0,2010,De Loterías y Apuestas del Estado,funcional
+45,107818262.0,2010,De Comunidades Autónomas,funcional
+450,103318262.0,2010,De la Administración General de las Comunidades Autónomas,funcional
+450-02,86747124.0,2010,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,14992639.0,2010,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,1030952.0,2010,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,547547.0,2010,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+451,4500000.0,2010,De Organismos Autónomos y agencias de las Comunidades Autónomas,funcional
+48,200000.0,2010,De Familias e Instituciones sin fines de lucro,funcional
+49,705038.0,2010,Del Exterior,funcional
+491,674371.0,2010,Del Fondo de Desarrollo Regional,funcional
+497,30667.0,2010,Otras transferencias de la Unión Europea,funcional
+5,307746000.0,2010,Ingresos patrimoniales,funcional
+52,2700000.0,2010,Intereses de depósitos,funcional
+53,1853478.0,2010,Dividendos y participación beneficios,funcional
+534,1853478.0,2010,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,1853478.0,2010,De sociedades y entidades dependientes de las entidades locales,funcional
+54,650.0,2010,Rentas de bienes inmuebles,funcional
+549,650.0,2010,Otras rentas de bienes inmuebles,funcional
+55,303191872.0,2010,Productos de concesiones y aprovechamientos especiales,funcional
+550,32491709.0,2010,De concesiones administrativas con contraprestación periódica,funcional
+551,266753377.0,2010,De concesiones administrativas con contraprestación no periódica,funcional
+552,3756786.0,2010,Derecho de superficie con contraprestación periódica,funcional
+559,190000.0,2010,Otras concesiones y aprovechamientos,funcional
+6,147667986.0,2010,Enajenación de inversiones reales,funcional
+60,147667986.0,2010,De Terrenos,funcional
+603,147667986.0,2010,Patrimonio público del suelo,funcional
+7,82840911.0,2010,Transferencias de capital,funcional
+72,9000.0,2010,De la Administración del Estado,funcional
+723,9000.0,2010,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,9000.0,2010,De Loterías y Apuestas del Estado,funcional
+75,4099999.0,2010,De Comunidades Autónomas,funcional
+753,4099999.0,2010,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autón",funcional
+77,383623.0,2010,De Empresas Privadas,funcional
+79,78348289.0,2010,Del Exterior,funcional
+791,7820638.0,2010,Del Fondo de Desarrollo Regional,funcional
+792,70527651.0,2010,Del Fondo de Cohesión,funcional
+9,257381385.0,2010,Pasivos financieros,funcional
+90,128690693.0,2010,Emisión de Deuda Pública en euros,funcional
+901,128690693.0,2010,Emisión de Deuda Pública en euros a largo plazo,funcional
+91,128690692.0,2010,Préstamos recibidos en euros,funcional
+913,128690692.0,2010,Préstamos recibidos a largo plazo de entes de fuera del sector público,funcional
+1,1732521419.0,2011,Impuestos directos,funcional
+10,113773548.0,2011,Impuesto sobre la Renta,funcional
+100,113773548.0,2011,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1493049544.0,2011,Impuestos sobre el capital,funcional
+112,32531.0,2011,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1020583422.0,2011,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,43544618.0,2011,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,185388973.0,2011,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,243500000.0,2011,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,125638327.0,2011,Impuesto sobre las Actividades Económicas,funcional
+130,125638327.0,2011,Impuesto sobre Actividades Económicas,funcional
+18,60000.0,2011,Impuestos directos extinguidos,funcional
+2,151532846.0,2011,Impuestos indirectos,funcional
+21,50841193.0,2011,Impuestos sobre el Valor Añadido,funcional
+210,50841193.0,2011,Impuesto sobre el Valor Añadido,funcional
+22,14670360.0,2011,Sobre consumos específicos,funcional
+220-00,802090.0,2011,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,283260.0,2011,Impuesto sobre la cerveza,funcional
+220-03,6860610.0,2011,Impuesto sobre las labores del tabaco,funcional
+220-04,6705840.0,2011,Impuesto sobre hidrocarburos,funcional
+220-06,18560.0,2011,Impuesto sobre productos intermedios,funcional
+29,86021293.0,2011,Otros impuestos indirectos,funcional
+290,86021000.0,2011,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,293.0,2011,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,912765491.0,2011,Tasas y otros ingresos,funcional
+30,161385914.0,2011,Tasas por la prestación de servicios públicos básicos,funcional
+302,45000.0,2011,Servicio de recogida de basuras,funcional
+303,147744683.0,2011,Servicio de tratamiento de residuos,funcional
+309,13596231.0,2011,Otras tasas por prestación de servicios básicos,funcional
+31,1353481.0,2011,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1053481.0,2011,Servicios asistenciales,funcional
+319,300000.0,2011,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,44936415.0,2011,Tasas por la realización de actividades de competencia local,funcional
+321,11643000.0,2011,Licencias urbanísticas,funcional
+322,2057000.0,2011,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,1150232.0,2011,Tasa por expedición de documentos,funcional
+326,28946685.0,2011,Tasa por retirada de vehículos,funcional
+329,1139498.0,2011,Otras tasas por la realización de actividades de competencia local,funcional
+33,271331434.0,2011,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,85338526.0,2011,Tasa de estacionamiento de vehículos,funcional
+331,45016764.0,2011,Tasa por entrada de vehículos,funcional
+332,40201038.0,2011,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+333,34126868.0,2011,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de telecomunicaciones,funcional
+334,312378.0,2011,Tasa por apertura de calas y zanjas,funcional
+335,5971814.0,2011,Tasa por ocupación de la vía pública con terrazas,funcional
+338,43862472.0,2011,Compensación de Telefónica de España SA,funcional
+339,16501574.0,2011,Otras tasas por utilización privativa del dominio público,funcional
+34,55511313.0,2011,Precios públicos,funcional
+342,35000.0,2011,Servicios educativos,funcional
+343,38890000.0,2011,Servicios deportivos,funcional
+349,16586313.0,2011,Otros precios públicos,funcional
+35,21000000.0,2011,Contribuciones especiales,funcional
+351,21000000.0,2011,Para el establecimiento o ampliación de servicios,funcional
+36,67500.0,2011,Ventas,funcional
+38,2228110.0,2011,Reintegros de operaciones corrientes,funcional
+389,2228110.0,2011,Otros reintegros de operaciones corrientes,funcional
+39,354951324.0,2011,Otros ingresos,funcional
+391,260149660.0,2011,Multas,funcional
+391-00,5218797.0,2011,Multas por infracciones urbanísticas,funcional
+391-10,11592128.0,2011,Multas por infracciones tributarias y análogas,funcional
+391-20,220000000.0,2011,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,23338735.0,2011,Otras multas y sanciones,funcional
+392,22273872.0,2011,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,1913872.0,2011,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,4784600.0,2011,Recargo ejecutivo,funcional
+392-11,15575400.0,2011,Recargo de apremio,funcional
+393,13153042.0,2011,Intereses de demora,funcional
+397,10623637.0,2011,Aprovechamientos urbanísticos,funcional
+397-10,10623637.0,2011,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,48751113.0,2011,Otros ingresos diversos,funcional
+4,1280266022.0,2011,Transferencias corrientes,funcional
+42,1167789002.0,2011,De la Administración del Estado,funcional
+420,1166921629.0,2011,De la Administración General del Estado,funcional
+420-10,1161070510.0,2011,Fondo Complementario de Financiación,funcional
+420-20,5681119.0,2011,Compensación por beneficios fiscales,funcional
+420-90,170000.0,2011,Otras transferencias corrientes de la Administración General del Estado,funcional
+421,526373.0,2011,De Organismos Autónomos y agencias estatales,funcional
+421-90,526373.0,2011,De otros Organismos Autónomos y Agencias,funcional
+423,341000.0,2011,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,341000.0,2011,De Loterías y Apuestas del Estado,funcional
+45,111692582.0,2011,De Comunidades Autónomas,funcional
+450,109192582.0,2011,De la Administración General de las Comunidades Autónomas,funcional
+450-02,91500700.0,2011,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,8130846.0,2011,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,1030952.0,2011,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,83125.0,2011,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+450-80,8446959.0,2011,Otras subvenciones corrientes de la Administración General de la Comunidad Autónoma,funcional
+451,2500000.0,2011,De Organismos Autónomos y agencias de las Comunidades Autónomas,funcional
+48,200000.0,2011,De Familias e Instituciones sin fines de lucro,funcional
+49,584438.0,2011,Del Exterior,funcional
+491,551638.0,2011,Del Fondo de Desarrollo Regional,funcional
+492,32800.0,2011,Del Fondo de Cohesión,funcional
+5,400799360.0,2011,Ingresos patrimoniales,funcional
+52,500000.0,2011,Intereses de depósitos,funcional
+53,29986460.0,2011,Dividendos y participación beneficios,funcional
+534,29986460.0,2011,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,29986460.0,2011,De sociedades y entidades dependientes de las entidades locales,funcional
+54,350.0,2011,Rentas de bienes inmuebles,funcional
+549,350.0,2011,Otras rentas de bienes inmuebles,funcional
+55,370289857.0,2011,Productos de concesiones y aprovechamientos especiales,funcional
+550,38748569.0,2011,De concesiones administrativas con contraprestación periódica,funcional
+551,327585163.0,2011,De concesiones administrativas con contraprestación no periódica,funcional
+552,3788725.0,2011,Derecho de superficie con contraprestación periódica,funcional
+559,167400.0,2011,Otras concesiones y aprovechamientos,funcional
+59,22693.0,2011,Otros ingresos patrimoniales,funcional
+599,22693.0,2011,Otros ingresos patrimoniales,funcional
+6,52799294.0,2011,Enajenación de inversiones reales,funcional
+60,52799294.0,2011,De Terrenos,funcional
+603,52799294.0,2011,Patrimonio público del suelo,funcional
+7,33504087.0,2011,Transferencias de capital,funcional
+72,9000.0,2011,De la Administración del Estado,funcional
+723,9000.0,2011,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,9000.0,2011,De Loterías y Apuestas del Estado,funcional
+75,1042727.0,2011,De Comunidades Autónomas,funcional
+753,1042727.0,2011,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autón",funcional
+77,51667.0,2011,De Empresas Privadas,funcional
+79,32400693.0,2011,Del Exterior,funcional
+791,5140570.0,2011,Del Fondo de Desarrollo Regional,funcional
+792,27260123.0,2011,Del Fondo de Cohesión,funcional
+1,1796362152.0,2012,Impuestos directos,funcional
+10,109981156.0,2012,Impuesto sobre la Renta,funcional
+100,109981156.0,2012,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1564527888.0,2012,Impuestos sobre el capital,funcional
+112,32531.0,2012,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1072752448.0,2012,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,46185442.0,2012,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,168044684.0,2012,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,277512783.0,2012,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,121793108.0,2012,Impuesto sobre las Actividades Económicas,funcional
+130,121793108.0,2012,Impuesto sobre Actividades Económicas,funcional
+18,60000.0,2012,Impuestos directos extinguidos,funcional
+2,160815027.0,2012,Impuestos indirectos,funcional
+21,72602350.0,2012,Impuestos sobre el Valor Añadido,funcional
+210,72602350.0,2012,Impuesto sobre el Valor Añadido,funcional
+22,13898465.0,2012,Sobre consumos específicos,funcional
+220-00,773808.0,2012,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,307474.0,2012,Impuesto sobre la cerveza,funcional
+220-03,6403845.0,2012,Impuesto sobre las labores del tabaco,funcional
+220-04,6395565.0,2012,Impuesto sobre hidrocarburos,funcional
+220-06,17773.0,2012,Impuesto sobre productos intermedios,funcional
+29,74314212.0,2012,Otros impuestos indirectos,funcional
+290,74313916.0,2012,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,296.0,2012,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,835871223.0,2012,Tasas y otros ingresos,funcional
+30,185491815.0,2012,Tasas por la prestación de servicios públicos básicos,funcional
+302,60000.0,2012,Servicio de recogida de basuras,funcional
+303,149897972.0,2012,Servicio de tratamiento de residuos,funcional
+309,35533843.0,2012,Otras tasas por prestación de servicios básicos,funcional
+31,1488168.0,2012,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1188168.0,2012,Servicios asistenciales,funcional
+319,300000.0,2012,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,48478518.0,2012,Tasas por la realización de actividades de competencia local,funcional
+321,20290998.0,2012,Licencias urbanísticas,funcional
+322,1446000.0,2012,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,971200.0,2012,Tasa por expedición de documentos,funcional
+326,24586220.0,2012,Tasa por retirada de vehículos,funcional
+329,1184100.0,2012,Otras tasas por la realización de actividades de competencia local,funcional
+33,245020546.0,2012,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,80472628.0,2012,Tasa de estacionamiento de vehículos,funcional
+331,49026000.0,2012,Tasa por entrada de vehículos,funcional
+332,43633557.0,2012,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+333,30210000.0,2012,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de telecomunicaciones,funcional
+334,242000.0,2012,Tasa por apertura de calas y zanjas,funcional
+335,5730000.0,2012,Tasa por ocupación de la vía pública con terrazas,funcional
+338,20977192.0,2012,Compensación de Telefónica de España SA,funcional
+339,14729169.0,2012,Otras tasas por utilización privativa del dominio público,funcional
+34,53764842.0,2012,Precios públicos,funcional
+341,633651.0,2012,Servicios asistenciales,funcional
+342,11749532.0,2012,Servicios educativos,funcional
+343,38944204.0,2012,Servicios deportivos,funcional
+344,8000.0,2012,"Entradas a museos, exposiciones, espectáculos",funcional
+349,2429455.0,2012,Otros precios públicos,funcional
+36,112800.0,2012,Ventas,funcional
+38,2000000.0,2012,Reintegros de operaciones corrientes,funcional
+389,2000000.0,2012,Otros reintegros de operaciones corrientes,funcional
+39,299514534.0,2012,Otros ingresos,funcional
+391,200247015.0,2012,Multas,funcional
+391-00,3169586.0,2012,Multas por infracciones urbanísticas,funcional
+391-10,10249474.0,2012,Multas por infracciones tributarias y análogas,funcional
+391-20,175950000.0,2012,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,10877955.0,2012,Otras multas y sanciones,funcional
+392,26717228.0,2012,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,3132091.0,2012,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,1875099.0,2012,Recargo ejecutivo,funcional
+392-11,21710038.0,2012,Recargo de apremio,funcional
+393,12734444.0,2012,Intereses de demora,funcional
+397,11561339.0,2012,Aprovechamientos urbanísticos,funcional
+397-10,11561339.0,2012,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,48254508.0,2012,Otros ingresos diversos,funcional
+4,1339311620.0,2012,Transferencias corrientes,funcional
+42,1250657865.0,2012,De la Administración del Estado,funcional
+420,1249927468.0,2012,De la Administración General del Estado,funcional
+420-10,1242966196.0,2012,Fondo Complementario de Financiación,funcional
+420-20,6961272.0,2012,Compensación por beneficios fiscales,funcional
+421,389397.0,2012,De Organismos Autónomos y agencias estatales,funcional
+421-90,389397.0,2012,De otros Organismos Autónomos y Agencias,funcional
+423,341000.0,2012,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,341000.0,2012,De Loterías y Apuestas del Estado,funcional
+45,87614034.0,2012,De Comunidades Autónomas,funcional
+450,85232034.0,2012,De la Administración General de las Comunidades Autónomas,funcional
+450-02,70359459.0,2012,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,13345122.0,2012,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,1019814.0,2012,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,507639.0,2012,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+451,2382000.0,2012,De Organismos Autónomos y agencias de las Comunidades Autónomas,funcional
+47,10000.0,2012,De Empresas Privadas,funcional
+48,180000.0,2012,De Familias e Instituciones sin fines de lucro,funcional
+49,849721.0,2012,Del Exterior,funcional
+491,809721.0,2012,Del Fondo de Desarrollo Regional,funcional
+492,40000.0,2012,Del Fondo de Cohesión,funcional
+5,145127750.0,2012,Ingresos patrimoniales,funcional
+52,150000.0,2012,Intereses de depósitos,funcional
+55,144951198.0,2012,Productos de concesiones y aprovechamientos especiales,funcional
+550,47848863.0,2012,De concesiones administrativas con contraprestación periódica,funcional
+551,94644454.0,2012,De concesiones administrativas con contraprestación no periódica,funcional
+552,2263583.0,2012,Derecho de superficie con contraprestación periódica,funcional
+559,194298.0,2012,Otras concesiones y aprovechamientos,funcional
+59,26552.0,2012,Otros ingresos patrimoniales,funcional
+599,26552.0,2012,Otros ingresos patrimoniales,funcional
+6,114969145.0,2012,Enajenación de inversiones reales,funcional
+60,114969145.0,2012,De Terrenos,funcional
+603,107925395.0,2012,Patrimonio público del suelo,funcional
+609,7043750.0,2012,Otros terrenos,funcional
+7,19442981.0,2012,Transferencias de capital,funcional
+72,9000.0,2012,De la Administración del Estado,funcional
+723,9000.0,2012,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,9000.0,2012,De Loterías y Apuestas del Estado,funcional
+77,817932.0,2012,De Empresas Privadas,funcional
+79,18616049.0,2012,Del Exterior,funcional
+791,780000.0,2012,Del Fondo de Desarrollo Regional,funcional
+792,17836049.0,2012,Del Fondo de Cohesión,funcional
+8,245000000.0,2012,Activos financieros,funcional
+85,245000000.0,2012,Enajenación de acciones y participaciones del sector público,funcional
+1,1969107263.0,2013,Impuestos directos,funcional
+10,102741269.0,2013,Impuesto sobre la Renta,funcional
+100,102741269.0,2013,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1746871150.0,2013,Impuestos sobre el capital,funcional
+112,404583.0,2013,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1130573647.0,2013,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,48468273.0,2013,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,151701063.0,2013,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,415723584.0,2013,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,119443313.0,2013,Impuesto sobre las Actividades Económicas,funcional
+130,119443313.0,2013,Impuesto sobre Actividades Económicas,funcional
+18,51531.0,2013,Impuestos directos extinguidos,funcional
+2,120075678.0,2013,Impuestos indirectos,funcional
+21,52772566.0,2013,Impuestos sobre el Valor Añadido,funcional
+210,52772566.0,2013,Impuesto sobre el Valor Añadido,funcional
+22,13396770.0,2013,Sobre consumos específicos,funcional
+220-00,720323.0,2013,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,266992.0,2013,Impuesto sobre la cerveza,funcional
+220-03,6562989.0,2013,Impuesto sobre las labores del tabaco,funcional
+220-04,5830182.0,2013,Impuesto sobre hidrocarburos,funcional
+220-06,16284.0,2013,Impuesto sobre productos intermedios,funcional
+29,53906342.0,2013,Otros impuestos indirectos,funcional
+290,53906042.0,2013,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,300.0,2013,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,639371789.0,2013,Tasas y otros ingresos,funcional
+30,153338611.0,2013,Tasas por la prestación de servicios públicos básicos,funcional
+302,22117.0,2013,Servicio de recogida de basuras,funcional
+303,128682328.0,2013,Servicio de tratamiento de residuos,funcional
+309,24634166.0,2013,Otras tasas por prestación de servicios básicos,funcional
+31,1175077.0,2013,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,950061.0,2013,Servicios asistenciales,funcional
+319,225016.0,2013,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,18140158.0,2013,Tasas por la realización de actividades de competencia local,funcional
+321,7056334.0,2013,Licencias urbanísticas,funcional
+322,1779595.0,2013,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,349822.0,2013,Tasa por expedición de documentos,funcional
+326,8028980.0,2013,Tasa por retirada de vehículos,funcional
+329,925427.0,2013,Otras tasas por la realización de actividades de competencia local,funcional
+33,183430933.0,2013,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,88373126.0,2013,Tasa de estacionamiento de vehículos,funcional
+331,30095431.0,2013,Tasa por entrada de vehículos,funcional
+332,27797562.0,2013,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+334,217120.0,2013,Tasa por apertura de calas y zanjas,funcional
+335,7583340.0,2013,Tasa por ocupación de la vía pública con terrazas,funcional
+338,18438539.0,2013,Compensación de Telefónica de España SA,funcional
+339,10925815.0,2013,Otras tasas por utilización privativa del dominio público,funcional
+34,57219017.0,2013,Precios públicos,funcional
+341,80000.0,2013,Servicios asistenciales,funcional
+342,12714688.0,2013,Servicios educativos,funcional
+343,41447059.0,2013,Servicios deportivos,funcional
+349,2977270.0,2013,Otros precios públicos,funcional
+36,993275.0,2013,Ventas,funcional
+38,2000000.0,2013,Reintegros de operaciones corrientes,funcional
+389,2000000.0,2013,Otros reintegros de operaciones corrientes,funcional
+39,223074718.0,2013,Otros ingresos,funcional
+391,131536826.0,2013,Multas,funcional
+391-00,1549956.0,2013,Multas por infracciones urbanísticas,funcional
+391-10,4321070.0,2013,Multas por infracciones tributarias y análogas,funcional
+391-20,118583800.0,2013,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,7082000.0,2013,Otras multas y sanciones,funcional
+392,28541878.0,2013,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,318692.0,2013,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,2232099.0,2013,Recargo ejecutivo,funcional
+392-11,25991087.0,2013,Recargo de apremio,funcional
+393,11402517.0,2013,Intereses de demora,funcional
+397,9307562.0,2013,Aprovechamientos urbanísticos,funcional
+397-10,9307562.0,2013,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,42285935.0,2013,Otros ingresos diversos,funcional
+4,1404169747.0,2013,Transferencias corrientes,funcional
+42,1329739858.0,2013,De la Administración del Estado,funcional
+420,1329020858.0,2013,De la Administración General del Estado,funcional
+420-10,1322628138.0,2013,Fondo Complementario de Financiación,funcional
+420-20,6392720.0,2013,Compensación por beneficios fiscales,funcional
+421,378000.0,2013,De Organismos Autónomos y agencias estatales,funcional
+421-90,378000.0,2013,De otros Organismos Autónomos y Agencias,funcional
+423,341000.0,2013,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,341000.0,2013,De Loterías y Apuestas del Estado,funcional
+45,73861478.0,2013,De Comunidades Autónomas,funcional
+450,73861478.0,2013,De la Administración General de las Comunidades Autónomas,funcional
+450-02,63786459.0,2013,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,8747239.0,2013,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,920334.0,2013,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,407446.0,2013,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+49,568411.0,2013,Del Exterior,funcional
+491,544411.0,2013,Del Fondo de Desarrollo Regional,funcional
+492,24000.0,2013,Del Fondo de Cohesión,funcional
+5,81338732.0,2013,Ingresos patrimoniales,funcional
+51,5247385.0,2013,Intereses de anticipos y préstamos concedidos,funcional
+514,5247385.0,2013,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+52,100000.0,2013,Intereses de depósitos,funcional
+53,34143169.0,2013,Dividendos y participación beneficios,funcional
+534,34143169.0,2013,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,34143169.0,2013,De sociedades y entidades dependientes de las entidades locales,funcional
+55,41848178.0,2013,Productos de concesiones y aprovechamientos especiales,funcional
+550,40861691.0,2013,De concesiones administrativas con contraprestación periódica,funcional
+551,41327.0,2013,De concesiones administrativas con contraprestación no periódica,funcional
+552,861900.0,2013,Derecho de superficie con contraprestación periódica,funcional
+559,83260.0,2013,Otras concesiones y aprovechamientos,funcional
+6,39889348.0,2013,Enajenación de inversiones reales,funcional
+60,35040970.0,2013,De Terrenos,funcional
+603,33840970.0,2013,Patrimonio público del suelo,funcional
+609,1200000.0,2013,Otros terrenos,funcional
+61,4848378.0,2013,De las demás Inversiones reales,funcional
+619,4848378.0,2013,De otras inversiones reales,funcional
+7,7759913.0,2013,Transferencias de capital,funcional
+72,9000.0,2013,De la Administración del Estado,funcional
+723,9000.0,2013,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,9000.0,2013,De Loterías y Apuestas del Estado,funcional
+79,7750913.0,2013,Del Exterior,funcional
+791,2330000.0,2013,Del Fondo de Desarrollo Regional,funcional
+792,5420913.0,2013,Del Fondo de Cohesión,funcional
+8,33290776.0,2013,Activos financieros,funcional
+85,33290776.0,2013,Enajenación de acciones y participaciones del sector público,funcional
+1,2032844260.0,2014,Impuestos directos,funcional
+10,100971275.0,2014,Impuesto sobre la Renta,funcional
+100,100971275.0,2014,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1818762847.0,2014,Impuestos sobre el capital,funcional
+112,459551.0,2014,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1207211712.0,2014,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,51797371.0,2014,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,151990823.0,2014,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,407303390.0,2014,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,113099094.0,2014,Impuesto sobre las Actividades Económicas,funcional
+130,113099094.0,2014,Impuesto sobre Actividades Económicas,funcional
+18,11044.0,2014,Impuestos directos extinguidos,funcional
+2,110876069.0,2014,Impuestos indirectos,funcional
+21,52001260.0,2014,Impuestos sobre el Valor Añadido,funcional
+210,52001260.0,2014,Impuesto sobre el Valor Añadido,funcional
+22,13356603.0,2014,Sobre consumos específicos,funcional
+220-00,639189.0,2014,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,271513.0,2014,Impuesto sobre la cerveza,funcional
+220-03,5956568.0,2014,Impuesto sobre las labores del tabaco,funcional
+220-04,6472273.0,2014,Impuesto sobre hidrocarburos,funcional
+220-06,17060.0,2014,Impuesto sobre productos intermedios,funcional
+29,45518206.0,2014,Otros impuestos indirectos,funcional
+290,45517904.0,2014,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,302.0,2014,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,662285185.0,2014,Tasas y otros ingresos,funcional
+30,157429832.0,2014,Tasas por la prestación de servicios públicos básicos,funcional
+302,4647.0,2014,Servicio de recogida de basuras,funcional
+303,133581877.0,2014,Servicio de tratamiento de residuos,funcional
+309,23843308.0,2014,Otras tasas por prestación de servicios básicos,funcional
+31,1622709.0,2014,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1200000.0,2014,Servicios asistenciales,funcional
+319,422709.0,2014,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,21833403.0,2014,Tasas por la realización de actividades de competencia local,funcional
+321,8290918.0,2014,Licencias urbanísticas,funcional
+322,1255362.0,2014,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,615060.0,2014,Tasa por expedición de documentos,funcional
+326,10405842.0,2014,Tasa por retirada de vehículos,funcional
+329,1266221.0,2014,Otras tasas por la realización de actividades de competencia local,funcional
+33,202051376.0,2014,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,86999698.0,2014,Tasa de estacionamiento de vehículos,funcional
+331,28711571.0,2014,Tasa por entrada de vehículos,funcional
+332,47235000.0,2014,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+334,186570.0,2014,Tasa por apertura de calas y zanjas,funcional
+335,7527260.0,2014,Tasa por ocupación de la vía pública con terrazas,funcional
+338,19176913.0,2014,Compensación de Telefónica de España SA,funcional
+339,12214364.0,2014,Otras tasas por utilización privativa del dominio público,funcional
+34,51677045.0,2014,Precios públicos,funcional
+341,58321.0,2014,Servicios asistenciales,funcional
+342,12061164.0,2014,Servicios educativos,funcional
+343,38072476.0,2014,Servicios deportivos,funcional
+349,1485084.0,2014,Otros precios públicos,funcional
+36,49782.0,2014,Ventas,funcional
+38,2137932.0,2014,Reintegros de operaciones corrientes,funcional
+389,2137932.0,2014,Otros reintegros de operaciones corrientes,funcional
+39,225483106.0,2014,Otros ingresos,funcional
+391,125930906.0,2014,Multas,funcional
+391-00,639425.0,2014,Multas por infracciones urbanísticas,funcional
+391-10,7747040.0,2014,Multas por infracciones tributarias y análogas,funcional
+391-20,111191924.0,2014,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,6352517.0,2014,Otras multas y sanciones,funcional
+392,35151329.0,2014,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,1112293.0,2014,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,2983402.0,2014,Recargo ejecutivo,funcional
+392-11,31055634.0,2014,Recargo de apremio,funcional
+393,14047956.0,2014,Intereses de demora,funcional
+397,12796565.0,2014,Aprovechamientos urbanísticos,funcional
+397-10,12796565.0,2014,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,37556350.0,2014,Otros ingresos diversos,funcional
+4,1398773011.0,2014,Transferencias corrientes,funcional
+42,1317593363.0,2014,De la Administración del Estado,funcional
+420,1317218563.0,2014,De la Administración General del Estado,funcional
+420-10,1316439151.0,2014,Fondo Complementario de Financiación,funcional
+420-20,779412.0,2014,Compensación por beneficios fiscales,funcional
+421,29800.0,2014,De Organismos Autónomos y agencias estatales,funcional
+421-90,29800.0,2014,De otros Organismos Autónomos y Agencias,funcional
+423,345000.0,2014,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,345000.0,2014,De Loterías y Apuestas del Estado,funcional
+45,80728948.0,2014,De Comunidades Autónomas,funcional
+450,80728948.0,2014,De la Administración General de las Comunidades Autónomas,funcional
+450-02,69286459.0,2014,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,9818266.0,2014,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,920334.0,2014,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,428889.0,2014,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+450-80,275000.0,2014,Otras subvenciones corrientes de la Administración General de la Comunidad Autónoma,funcional
+47,87122.0,2014,De Empresas Privadas,funcional
+49,363578.0,2014,Del Exterior,funcional
+491,363578.0,2014,Del Fondo de Desarrollo Regional,funcional
+5,106068304.0,2014,Ingresos patrimoniales,funcional
+52,50000.0,2014,Intereses de depósitos,funcional
+53,48517282.0,2014,Dividendos y participación beneficios,funcional
+534,48517282.0,2014,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,35917282.0,2014,De sociedades y entidades dependientes de las entidades locales,funcional
+534-10,12600000.0,2014,De sociedades y entidades no dependientes de las entidades locales,funcional
+55,57470478.0,2014,Productos de concesiones y aprovechamientos especiales,funcional
+550,47310293.0,2014,De concesiones administrativas con contraprestación periódica,funcional
+551,8216558.0,2014,De concesiones administrativas con contraprestación no periódica,funcional
+552,1914827.0,2014,Derecho de superficie con contraprestación periódica,funcional
+559,28800.0,2014,Otras concesiones y aprovechamientos,funcional
+59,30544.0,2014,Otros ingresos patrimoniales,funcional
+599,30544.0,2014,Otros ingresos patrimoniales,funcional
+6,99687551.0,2014,Enajenación de inversiones reales,funcional
+60,80180372.0,2014,De Terrenos,funcional
+603,78680372.0,2014,Patrimonio público del suelo,funcional
+609,1500000.0,2014,Otros terrenos,funcional
+61,18499382.0,2014,De las demás Inversiones reales,funcional
+619,18499382.0,2014,De otras inversiones reales,funcional
+68,1007797.0,2014,Reintegros por operaciones de capital,funcional
+680,1007797.0,2014,De ejercicios cerrados,funcional
+7,31779375.0,2014,Transferencias de capital,funcional
+72,5000.0,2014,De la Administración del Estado,funcional
+723,5000.0,2014,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,5000.0,2014,De Loterías y Apuestas del Estado,funcional
+79,31774375.0,2014,Del Exterior,funcional
+791,2435154.0,2014,Del Fondo de Desarrollo Regional,funcional
+792,29339221.0,2014,Del Fondo de Cohesión,funcional
+1,2159555508.0,2015,Impuestos directos,funcional
+10,110575079.0,2015,Impuesto sobre la Renta,funcional
+100,110575079.0,2015,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1927599530.0,2015,Impuestos sobre el capital,funcional
+112,627806.0,2015,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1230682795.0,2015,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,47308139.0,2015,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,134468240.0,2015,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,514512550.0,2015,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,121377809.0,2015,Impuesto sobre las Actividades Económicas,funcional
+130,121377809.0,2015,Impuesto sobre Actividades Económicas,funcional
+18,3090.0,2015,Impuestos directos extinguidos,funcional
+2,134188497.0,2015,Impuestos indirectos,funcional
+21,62805390.0,2015,Impuestos sobre el Valor Añadido,funcional
+210,62805390.0,2015,Impuesto sobre el Valor Añadido,funcional
+22,14929085.0,2015,Sobre consumos específicos,funcional
+220-00,743692.0,2015,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,264895.0,2015,Impuesto sobre la cerveza,funcional
+220-03,6539170.0,2015,Impuesto sobre las labores del tabaco,funcional
+220-04,7365575.0,2015,Impuesto sobre hidrocarburos,funcional
+220-06,15753.0,2015,Impuesto sobre productos intermedios,funcional
+29,56454022.0,2015,Otros impuestos indirectos,funcional
+290,56453717.0,2015,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,305.0,2015,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,496057696.0,2015,Tasas y otros ingresos,funcional
+30,22713858.0,2015,Tasas por la prestación de servicios públicos básicos,funcional
+302,30000.0,2015,Servicio de recogida de basuras,funcional
+303,1150850.0,2015,Servicio de tratamiento de residuos,funcional
+309,21533008.0,2015,Otras tasas por prestación de servicios básicos,funcional
+31,1411492.0,2015,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1013815.0,2015,Servicios asistenciales,funcional
+319,397677.0,2015,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,25991017.0,2015,Tasas por la realización de actividades de competencia local,funcional
+321,12558489.0,2015,Licencias urbanísticas,funcional
+322,1026675.0,2015,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,722920.0,2015,Tasa por expedición de documentos,funcional
+326,10553514.0,2015,Tasa por retirada de vehículos,funcional
+329,1129419.0,2015,Otras tasas por la realización de actividades de competencia local,funcional
+33,204908521.0,2015,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,86803158.0,2015,Tasa de estacionamiento de vehículos,funcional
+331,30510331.0,2015,Tasa por entrada de vehículos,funcional
+332,51409000.0,2015,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+334,253047.0,2015,Tasa por apertura de calas y zanjas,funcional
+335,6320395.0,2015,Tasa por ocupación de la vía pública con terrazas,funcional
+338,16163765.0,2015,Compensación de Telefónica de España SA,funcional
+339,13448825.0,2015,Otras tasas por utilización privativa del dominio público,funcional
+34,49004328.0,2015,Precios públicos,funcional
+341,34213.0,2015,Servicios asistenciales,funcional
+342,11826271.0,2015,Servicios educativos,funcional
+343,34988000.0,2015,Servicios deportivos,funcional
+349,2155844.0,2015,Otros precios públicos,funcional
+36,118481.0,2015,Ventas,funcional
+38,2091212.0,2015,Reintegros de operaciones corrientes,funcional
+389,2091212.0,2015,Otros reintegros de operaciones corrientes,funcional
+39,189818787.0,2015,Otros ingresos,funcional
+391,105611467.0,2015,Multas,funcional
+391-00,1163935.0,2015,Multas por infracciones urbanísticas,funcional
+391-10,7207716.0,2015,Multas por infracciones tributarias y análogas,funcional
+391-20,93623987.0,2015,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,3615829.0,2015,Otras multas y sanciones,funcional
+392,25252892.0,2015,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-10,3037103.0,2015,Recargo ejecutivo,funcional
+392-11,22215789.0,2015,Recargo de apremio,funcional
+393,17503776.0,2015,Intereses de demora,funcional
+397,4000000.0,2015,Aprovechamientos urbanísticos,funcional
+397-10,4000000.0,2015,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,37450652.0,2015,Otros ingresos diversos,funcional
+4,1421442160.0,2015,Transferencias corrientes,funcional
+42,1334492571.0,2015,De la Administración del Estado,funcional
+420,1334115571.0,2015,De la Administración General del Estado,funcional
+420-10,1333156077.0,2015,Fondo Complementario de Financiación,funcional
+420-20,789494.0,2015,Compensación por beneficios fiscales,funcional
+420-90,170000.0,2015,Otras transferencias corrientes de la Administración General del Estado,funcional
+421,32000.0,2015,De Organismos Autónomos y agencias estatales,funcional
+421-90,32000.0,2015,De otros Organismos Autónomos y Agencias,funcional
+423,345000.0,2015,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,345000.0,2015,De Loterías y Apuestas del Estado,funcional
+45,80495499.0,2015,De Comunidades Autónomas,funcional
+450,80495499.0,2015,De la Administración General de las Comunidades Autónomas,funcional
+450-02,70250000.0,2015,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,8621276.0,2015,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,920334.0,2015,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,428889.0,2015,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+450-80,275000.0,2015,Otras subvenciones corrientes de la Administración General de la Comunidad Autónoma,funcional
+47,6429143.0,2015,De Empresas Privadas,funcional
+49,24947.0,2015,Del Exterior,funcional
+491,8947.0,2015,Del Fondo de Desarrollo Regional,funcional
+492,16000.0,2015,Del Fondo de Cohesión,funcional
+5,89888161.0,2015,Ingresos patrimoniales,funcional
+53,51424239.0,2015,Dividendos y participación beneficios,funcional
+534,51424239.0,2015,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,37424239.0,2015,De sociedades y entidades dependientes de las entidades locales,funcional
+534-10,14000000.0,2015,De sociedades y entidades no dependientes de las entidades locales,funcional
+55,38463922.0,2015,Productos de concesiones y aprovechamientos especiales,funcional
+550,36721876.0,2015,De concesiones administrativas con contraprestación periódica,funcional
+551,78000.0,2015,De concesiones administrativas con contraprestación no periódica,funcional
+552,1637421.0,2015,Derecho de superficie con contraprestación periódica,funcional
+559,26625.0,2015,Otras concesiones y aprovechamientos,funcional
+6,53467497.0,2015,Enajenación de inversiones reales,funcional
+60,37799079.0,2015,De Terrenos,funcional
+603,36799079.0,2015,Patrimonio público del suelo,funcional
+609,1000000.0,2015,Otros terrenos,funcional
+61,11668418.0,2015,De las demás Inversiones reales,funcional
+619,11668418.0,2015,De otras inversiones reales,funcional
+68,4000000.0,2015,Reintegros por operaciones de capital,funcional
+680,4000000.0,2015,De ejercicios cerrados,funcional
+7,27985509.0,2015,Transferencias de capital,funcional
+72,5000.0,2015,De la Administración del Estado,funcional
+723,5000.0,2015,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,5000.0,2015,De Loterías y Apuestas del Estado,funcional
+79,27980509.0,2015,Del Exterior,funcional
+791,3407511.0,2015,Del Fondo de Desarrollo Regional,funcional
+792,24572998.0,2015,Del Fondo de Cohesión,funcional
+1,2246767421.0,2016,Impuestos directos,funcional
+10,128476839.0,2016,Impuesto sobre la Renta,funcional
+100,128476839.0,2016,Impuestos sobre la Renta de las Personas Físicas,funcional
+11,1989961316.0,2016,Impuestos sobre el capital,funcional
+112,614224.0,2016,Impuesto sobre Bienes Inmuebles Bienes Inmubles de Naturaleza Rústica,funcional
+113,1256136727.0,2016,Impuesto sobre Bienes Inmuebles Bienes inmuebles de Naturaleza Urbana,funcional
+114,49581610.0,2016,Impuesto sobre Bienes Inmuebles Bienes Inmuebles de características especiales,funcional
+115,130600610.0,2016,Impuesto sobre Vehículos de Tracción Mecánica,funcional
+116,553028145.0,2016,Impuesto sobre Incremento del Valor de los Terrenos de Naturaleza Urbana,funcional
+13,128291785.0,2016,Impuesto sobre las Actividades Económicas,funcional
+130,128291785.0,2016,Impuesto sobre Actividades Económicas,funcional
+18,37481.0,2016,Impuestos directos extinguidos,funcional
+2,138541479.0,2016,Impuestos indirectos,funcional
+21,57443340.0,2016,Impuestos sobre el Valor Añadido,funcional
+210,57443340.0,2016,Impuesto sobre el Valor Añadido,funcional
+22,15445258.0,2016,Sobre consumos específicos,funcional
+220-00,800507.0,2016,Impuesto sobre el alcohol y bebidas derivadas,funcional
+220-01,274767.0,2016,Impuesto sobre la cerveza,funcional
+220-03,7218368.0,2016,Impuesto sobre las labores del tabaco,funcional
+220-04,7135206.0,2016,Impuesto sobre hidrocarburos,funcional
+220-06,16410.0,2016,Impuesto sobre productos intermedios,funcional
+29,65652881.0,2016,Otros impuestos indirectos,funcional
+290,65652531.0,2016,"Impuesto sobre construcciones, instalaciones y obras",funcional
+291,350.0,2016,Impuesto sobre gastos suntuarios (Cotos de caza y pesca),funcional
+3,571790129.0,2016,Tasas y otros ingresos,funcional
+30,58358199.0,2016,Tasas por la prestación de servicios públicos básicos,funcional
+302,35505.0,2016,Servicio de recogida de basuras,funcional
+303,39256972.0,2016,Servicio de tratamiento de residuos,funcional
+309,19065722.0,2016,Otras tasas por prestación de servicios básicos,funcional
+31,1609660.0,2016,Tasas por la prestación de servicios públicos de carácter social y preferente,funcional
+311,1200000.0,2016,Servicios asistenciales,funcional
+319,409660.0,2016,Otras tasas por prestación de servicios de carácter preferente,funcional
+32,21436639.0,2016,Tasas por la realización de actividades de competencia local,funcional
+321,11299985.0,2016,Licencias urbanísticas,funcional
+322,1128332.0,2016,Cedulas de habitabilidad y licencias de primera ocupación,funcional
+325,762674.0,2016,Tasa por expedición de documentos,funcional
+326,7047000.0,2016,Tasa por retirada de vehículos,funcional
+329,1198648.0,2016,Otras tasas por la realización de actividades de competencia local,funcional
+33,224625930.0,2016,Tasas por la utilización privativa o el aprovechamiento especial del dominio público local,funcional
+330,96000000.0,2016,Tasa de estacionamiento de vehículos,funcional
+331,34214455.0,2016,Tasa por entrada de vehículos,funcional
+332,50507732.0,2016,Tasa por utilización privativa o aprovechamiento especial por empresas explotadoras de servicios de suministros,funcional
+334,260363.0,2016,Tasa por apertura de calas y zanjas,funcional
+335,9155321.0,2016,Tasa por ocupación de la vía pública con terrazas,funcional
+338,19186440.0,2016,Compensación de Telefónica de España SA,funcional
+339,15301619.0,2016,Otras tasas por utilización privativa del dominio público,funcional
+34,45689296.0,2016,Precios públicos,funcional
+341,250102.0,2016,Servicios asistenciales,funcional
+342,11760663.0,2016,Servicios educativos,funcional
+343,31581000.0,2016,Servicios deportivos,funcional
+349,2097531.0,2016,Otros precios públicos,funcional
+36,70656.0,2016,Ventas,funcional
+38,1952756.0,2016,Reintegros de operaciones corrientes,funcional
+389,1952756.0,2016,Otros reintegros de operaciones corrientes,funcional
+39,218046993.0,2016,Otros ingresos,funcional
+391,116591081.0,2016,Multas,funcional
+391-00,282340.0,2016,Multas por infracciones urbanísticas,funcional
+391-10,6982951.0,2016,Multas por infracciones tributarias y análogas,funcional
+391-20,95000000.0,2016,Multas por infracciones de la Ordenanza de circulación,funcional
+391-90,14325790.0,2016,Otras multas y sanciones,funcional
+392,26277695.0,2016,Recargos del periodo ejecutivo y por declaración extemporánea sin requerimiento previo,funcional
+392-00,267216.0,2016,Rec. declaración extemporania sin requerimiento previo,funcional
+392-10,3128216.0,2016,Recargo ejecutivo,funcional
+392-11,22882263.0,2016,Recargo de apremio,funcional
+393,19295145.0,2016,Intereses de demora,funcional
+397,8611209.0,2016,Aprovechamientos urbanísticos,funcional
+397-10,8611209.0,2016,Otros ingresos por aprovechamientos urbanísticos,funcional
+399,47271863.0,2016,Otros ingresos diversos,funcional
+4,1415869649.0,2016,Transferencias corrientes,funcional
+42,1335102587.0,2016,De la Administración del Estado,funcional
+420,1334725087.0,2016,De la Administración General del Estado,funcional
+420-10,1333941950.0,2016,Fondo Complementario de Financiación,funcional
+420-20,783137.0,2016,Compensación por beneficios fiscales,funcional
+421,32500.0,2016,De Organismos Autónomos y agencias estatales,funcional
+421-90,32500.0,2016,De otros Organismos Autónomos y Agencias,funcional
+423,345000.0,2016,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+423-00,345000.0,2016,De Loterías y Apuestas del Estado,funcional
+45,79717062.0,2016,De Comunidades Autónomas,funcional
+450,79717062.0,2016,De la Administración General de las Comunidades Autónomas,funcional
+450-02,70250000.0,2016,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Servicios Sociales y,funcional
+450-30,7832160.0,2016,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Educación,funcional
+450-50,931013.0,2016,Transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma en materia de Empleo y Desarrollo,funcional
+450-60,428889.0,2016,Otras transferencias corrientes en cumplimiento de convenios suscritos con la Comunidad Autónoma,funcional
+450-80,275000.0,2016,Otras subvenciones corrientes de la Administración General de la Comunidad Autónoma,funcional
+47,1050000.0,2016,De Empresas Privadas,funcional
+5,92208959.0,2016,Ingresos patrimoniales,funcional
+53,52541605.0,2016,Dividendos y participación beneficios,funcional
+534,52541605.0,2016,"De Sociedades mercantiles, entidades públicas empresariales y otros organismos públicos",funcional
+534-00,38541605.0,2016,De sociedades y entidades dependientes de las entidades locales,funcional
+534-10,14000000.0,2016,De sociedades y entidades no dependientes de las entidades locales,funcional
+54,36028.0,2016,Rentas de bienes inmuebles,funcional
+541,36028.0,2016,Arrendamientos de fincas urbanas,funcional
+55,39493126.0,2016,Productos de concesiones y aprovechamientos especiales,funcional
+550,37887725.0,2016,De concesiones administrativas con contraprestación periódica,funcional
+551,106759.0,2016,De concesiones administrativas con contraprestación no periódica,funcional
+552,1300800.0,2016,Derecho de superficie con contraprestación periódica,funcional
+555,197842.0,2016,Aprovechamientos especiales con contraprestación,funcional
+59,138200.0,2016,Otros ingresos patrimoniales,funcional
+599,138200.0,2016,Otros ingresos patrimoniales,funcional
+6,18317828.0,2016,Enajenación de inversiones reales,funcional
+60,11217828.0,2016,De Terrenos,funcional
+603,11217828.0,2016,Patrimonio público del suelo,funcional
+61,3100000.0,2016,De las demás Inversiones reales,funcional
+619,3100000.0,2016,De otras inversiones reales,funcional
+68,4000000.0,2016,Reintegros por operaciones de capital,funcional
+680,4000000.0,2016,De ejercicios cerrados,funcional
+7,5000.0,2016,Transferencias de capital,funcional
+72,5000.0,2016,De la Administración del Estado,funcional
+723,5000.0,2016,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos",funcional
+723-00,5000.0,2016,De Loterías y Apuestas del Estado,funcional

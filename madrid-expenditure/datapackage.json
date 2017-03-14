@@ -1,0 +1,131 @@
+{
+  "name": "madrid-28079-budgets-expenditure",
+  "title": "madrid presupuestos municipales 2010-2016 gastos",
+  "regionCode": "eu",
+  "countryCode": "ES",
+  "cityCode": "Madrid",
+  "author": "Gobierto",
+  "@context": "http://schemas.frictionlessdata.io/fiscal-data-package.jsonld",
+  "fiscalPeriod": {
+    "start": "2010-01-01",
+    "end": "2016-12-31"
+  },
+  "resources": [
+    {
+      "name": "budgets_expenditure_proposed",
+      "format": "csv",
+      "path": "budgets_expenditure_proposed.csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "csvddfVersion": 1,
+        "delimiter": ",",
+        "lineTerminator": "\n"
+      },
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "title": "code",
+            "name": "code",
+            "slug": "code",
+            "type": "string",
+            "format": "default",
+            "osType": "functional-classification:generic:code",
+            "conceptType": "functional-classification"
+          },
+          {
+            "title": "amount",
+            "name": "amount",
+            "slug": "amount",
+            "type": "number",
+            "format": "default",
+            "osType": "value",
+            "conceptType": "value",
+            "decimalChar": ".",
+            "groupChar": ","
+          },
+          {
+            "title": "date",
+            "name": "date",
+            "slug": "date",
+            "type": "integer",
+            "format": "default",
+            "osType": "date:fiscal-year",
+            "conceptType": "date"
+          },
+          {
+            "title": "name",
+            "name": "name",
+            "slug": "name",
+            "type": "string",
+            "format": "default",
+            "osType": "functional-classification:generic:label",
+            "conceptType": "functional-classification"
+          },
+          {
+            "title": "area",
+            "name": "area",
+            "slug": "area",
+            "type": "string",
+            "format": "default",
+            "osType": "functional-classification:generic:code",
+            "conceptType": "functional-classification"
+          }
+        ],
+        "primaryKey": [
+          "code",
+          "date",
+          "area"
+        ]
+      }
+    }
+  ],
+  "model": {
+    "dimensions": {
+      "functional-classification": {
+        "dimensionType": "classification",
+        "primaryKey": [
+          "code",
+          "area"
+        ],
+        "attributes": {
+          "code": {
+            "source": "code",
+            "title": "code"
+          },
+          "name": {
+            "source": "name",
+            "title": "name",
+            "labelfor": "code"
+          },
+          "area": {
+            "source": "area",
+            "title": "area"
+          }
+        },
+        "classificationType": "functional"
+      },
+      "date": {
+        "dimensionType": "datetime",
+        "primaryKey": [
+          "date"
+        ],
+        "attributes": {
+          "date": {
+            "source": "date",
+            "title": "date"
+          }
+        }
+      }
+    },
+    "measures": {
+      "amount": {
+        "source": "amount",
+        "title": "amount",
+        "currency": "EUR",
+        "direction": "expenditure",
+        "phase": "proposed"
+      }
+    }
+  }
+}
